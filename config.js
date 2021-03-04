@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Guilherme Lourenço - Início',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Artigos',
       path: '/'
     },
     {
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Guilherme Lourenço',
     photo: '/photo.jpg',
-    bio: 'Perito Forense Digital e Consultor de Segurança da Informação',
+    bio: 'Perito Forense Digital e Consultor em Segurança da Informação',
     contacts: {
       email: '',
       facebook: '#',
