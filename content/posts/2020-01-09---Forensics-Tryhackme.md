@@ -9,7 +9,7 @@ tags:
   - "Open source"
   - "Tryhackme"
   - "Writeup"
-description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
+description: "Nesse post vou mostrar o writeup da sala Forensics do TryHackMe. Para a realização dos challenges é necessário ter um conhecimento prévio de forense digital, pois vamos analisar e coletar informações do dump de memória fornecido."
 socialImage: "/media/gutenberg.jpg"
 ---
 
