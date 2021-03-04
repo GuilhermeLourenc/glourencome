@@ -9,7 +9,7 @@ tags:
   - "Open source"
   - "Tryhackme"
   - "Writeup"
-description: "Nesse post vou mostrar o passo a passo para resolver a sala Forensics do TryHackMe. Para a realização dos challenges é necessário ter um conhecimento prévio da ferramenta Volatility, pois utiliza-la para analisar e coletar informações do dump de memória fornecido."
+description: "Nesse post vou mostrar o passo a passo para resolver a sala Forensics do TryHackMe. Para a realização dos challenges é necessário ter um conhecimento prévio da ferramenta Volatility, pois vou utiliza-la para analisar e coletar informações do dump de memória fornecido."
 socialImage: "/media/gutenberg.jpg"
 ---
 
