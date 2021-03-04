@@ -1,5 +1,5 @@
 ---
-title: "Writeup Forensics - TryHackMe"
+title: "Forensics - TryHackMe"
 date: "2020-09-18T22:12:03.284Z"
 template: "post"
 draft: false
