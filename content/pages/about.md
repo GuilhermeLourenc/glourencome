@@ -1,6 +1,6 @@
 ---
 template: page
-title: Sobre - Guilherme Lourenço
+title: Sobre
 slug: about
 socialImage: /media/image-2.jpg
 draft: false
