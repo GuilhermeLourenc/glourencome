@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Guilherme Lourenço |Home,
+  title: 'Guilherme Lourenço - Início',
   subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
