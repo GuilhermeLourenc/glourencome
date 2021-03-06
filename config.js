@@ -39,7 +39,7 @@ module.exports = {
       linkedin: 'guilherme-l-957a0999/',
       instagram: '#',
       line: '',
-      gitlab: '',
+      gitlab: 'GuilhermeLourenc',
       weibo: '',
       codepen: '',
       youtube: '',
