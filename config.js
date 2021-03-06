@@ -37,7 +37,7 @@ module.exports = {
       rss: '',
       vkontakte: '',
       linkedin: 'guilherme-l-957a0999/',
-      instagram: 'guii.raw',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
