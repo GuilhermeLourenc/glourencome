@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Guilherme Lourenço - Início',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Guilherme Lourenço |Home,
+  subtitle: '',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -30,12 +30,8 @@ module.exports = {
     bio: 'Perito Forense Digital e Consultor em Segurança da Informação',
     contacts: {
       email: '',
-      facebook: '#',
       telegram: '#',
-      twitter: '#',
       github: '#',
-      rss: '',
-      vkontakte: '',
       linkedin: 'https://www.linkedin.com/in/guilherme-l-957a0999/',
       instagram: '#',
       line: '',
